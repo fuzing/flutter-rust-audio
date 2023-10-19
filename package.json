@@ -1,0 +1,25 @@
+{
+  "name": "flutter-rust-audio",
+  "version": "1.0.0",
+  "description": "Framework for developing audio plugins and applications. Uses Flutter for UI and Rust for DSP and other low-level functionality.  Compatible with AU, AUv3, VST, VST3, AAX and LV2, and also standalone applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "rust",
+    "audio",
+    "dsp",
+    "plugins",
+    "au",
+    "auv3",
+    "vst",
+    "vst3",
+    "aax",
+    "lv2",
+    "daw"
+  ],
+  "author": "Peter Beresford",
+  "license": "ISC"
+}
