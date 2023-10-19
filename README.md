@@ -3,7 +3,7 @@
 
 This framework will allow folks to build audio plugins and applications.
 
-### This project is currently being developed in **stealth mode** - please reach out to me if you are interested in participating
+### This project is currently being developed in **stealth mode** - please [reach out](https://www.github.com/fuzing) to me if you are interested in participating or learning about this technology
 
 Goals for the project:
 - Rust as the primary language, but enable use of existing C/C++/ASM code
@@ -14,9 +14,9 @@ Goals for the project:
 - MIDI Support
 - Compilation and Packaging System
 - Rich eco-system of DSP algorithms
-- Optional outsource of algorithms/processing to GPU (via OpenCL) on all platforms
+- Optional outsource of processing to GPU (via OpenCL) on all platforms
 - Robust Pipelining/Chaining
-- Undecided regarding licensing
+- Licensing?
 
-as stated above, this project is currently in **stealth mode** - please [reach out](https://www.github.com/fuzing) if you are interested in participating
+as stated above, this project is currently in **stealth mode** - please [reach out](https://www.github.com/fuzing) if you are interested in participating or learning about this technology
 
