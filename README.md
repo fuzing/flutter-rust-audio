@@ -7,7 +7,7 @@ I am developing the first framework that will allow folks to build audio plugins
 
 Goals for the project:
 - Fast!
-- Rust as the primary language, but enable use of existing C/C++/ASM code
+- Rust/Dart as the primary languages, and FFI for C/C++/ASM code
 - Flutter for the UI (this is novel, as most other frameworks [**JUCE et. al.**] use their own UI library)
 - Target all major plugin types (AU, AUv3, VST, VST3, AAX, LV2), and standalone applications
 - Target all major desktop and mobile OS (Linux, Windows, macOS, iOS, Android), and web (via webassembly)
