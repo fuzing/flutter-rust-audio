@@ -3,7 +3,7 @@
 
 This framework will allow folks to build audio plugins and applications.
 
-###This project is currently being developed in **stealth mode** - please reach out to me if you are interested in participating
+### This project is currently being developed in **stealth mode** - please reach out to me if you are interested in participating
 
 Goals for the project:
 - Rust as the primary language, but enable use of existing C/C++/ASM code
