@@ -7,17 +7,18 @@ I am developing the first framework that will allow folks to build audio plugins
 
 Goals for the project:
 - Fast!
-- Rust/Dart as the primary languages, and FFI for C/C++/ASM code
+- Rust & Dart as the primary languages, and FFI for C/C++/ASM/Other-Native code
 - Flutter for the UI (this is novel, as most other frameworks [**JUCE et. al.**] use their own UI library)
 - Target all major plugin types (AU, AUv3, VST, VST3, AAX, LV2), and standalone applications
 - Target all major desktop and mobile OS (Linux, Windows, macOS, iOS, Android), and web (via webassembly)
+- Low level libraries should be usable in embedded projects (e.g. pedals)
 - Support for traditional DSP and Neural Modeling
 - Device discovery and enumeration
-- MIDI Support
+- MIDI/Sample Support
 - Compilation and Packaging System
 - Rich eco-system of DSP algorithms
-- Optional outsource of processing to GPU (via OpenCL) on all platforms
-- Robust Pipelining/Chaining
+- Optional outsource of processing to GPU (via WebGPU) on all platforms
+- Robust Composable Graph/Pipelining/Chaining functionality
 - Licensing?
 - Did I already say Fast!
 
